@@ -1,0 +1,13 @@
+{
+  "name": "Fibaro HC3 QA Updater",
+  "quickapp": "Fibaro-HC3-QA-Updater",
+  "version": "1.1.0",
+  "build": 1,
+  "date": "2026-02-27",
+  "changelog": [
+    "Version initiale",
+    "Mécanisme de vérification de version"
+  ],
+  "minimum_hc3_version": "5.150.0",
+  "download_url": "https://github.com/fshumeli/Fibaro-HC3-QA-Updater/releases/latest/download/Fibaro-HC3-QA-Updater.fqa"
+}
