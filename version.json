@@ -1,7 +1,7 @@
 {
   "name": "Fibaro HC3 QA Updater",
   "quickapp": "Fibaro-HC3-QA-Updater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "build": 1,
   "date": "2026-02-27",
   "changelog": [
