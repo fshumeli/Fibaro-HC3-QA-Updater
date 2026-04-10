@@ -1,7 +1,7 @@
 {
   "quickapps": {
     "Fibaro-HC3-QA-Updater": {
-      "name": "Fibaro HC3 QA Updater",
+      "name": "qa_updater",
       "version": "1.0.1",
       "build": 1,
       "date": "2026-02-27",
@@ -25,15 +25,15 @@
       "download_url": "https://github.com/fshumeli/Fibaro-HC3-QA-Updater/releases/latest/download/Fibaro-HC3-QA-Updater.fqa"
     },
     "Icon Customizer": {
-      "name": "Icon Customizer",
+      "name": "icon_customizer",
       "version": "1.0.0",
       "build": 1,
-      "date": "2026-03-27",
+      "date": "2026-04-10",
       "changelog": [
-        "Version initiale"
+        "Initial release"
       ],
       "minimum_hc3_version": "5.150.0",
-      "download_url": "https://github.com/fshumeli/Icon-Customizer/releases/latest/download/Icon-Customizer.fqa"
+      "download_url": "https://marketplace.fibaro.com/items/icon-customizer"
     }
   }
 }
