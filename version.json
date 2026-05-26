@@ -34,6 +34,17 @@
       ],
       "minimum_hc3_version": "5.150.0",
       "download_url": "https://marketplace.fibaro.com/items/icon-customizer"
+    },
+    "day_off_tracker": {
+      "name": "Day Off Tracker",
+      "version": "2.1.0",
+      "build": 1,
+      "date": "2026-05-26",
+      "changelog": [
+        "Layout improvements"
+      ],
+      "minimum_hc3_version": "5.150.0",
+      "download_url": "https://marketplace.fibaro.com/items/day-off-tracker-qa"
     }
   }
 }
